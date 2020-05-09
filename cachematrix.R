@@ -1,3 +1,4 @@
+# Himanshu Jain, 9 May 2020
 # example usage:
 #> source("cachematrix.R")
 #> aSquareMatrix <- makeCacheMatrix(matrix(0:8, 8, 8))
